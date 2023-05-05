@@ -30,38 +30,50 @@ Platforms: iOS/Android. (Currently not responsive for desktop view)
 
 
 1.Sign Up Page: 
+
 ![SignUp Page](assets/catimage/screenshots/a2.jpeg)
 
 2.Sign In Page: 
+
 ![SignIn Page](assets/catimage/screenshots/a1.jpeg)
 
 3.Main Page: 
+
 ![Main Page](assets/catimage/screenshots/a3.jpeg)
 
 4.Most Popular Breeds Section: 
+
 ![Most Popular Breed](assets/catimage/screenshots/a4.jpeg)
 
 5.Cat's Description: 
+
 ![Cat's Description](assets/catimage/screenshots/a5.jpeg)
 
 6.Cat Catalogue Fetching Details: 
+
 ![Cat Catalogue Fetching Details](assets/catimage/screenshots/a6.jpeg)
 
 7.Cat Catalogue Page: 
+
 ![Cat Catalogue Page](assets/catimage/screenshots/a7.jpeg)
 
-8.Cat Catalogue Sorting: 
+8.Cat Catalogue Sorting:
+
 ![Sorting Funtion](assets/catimage/screenshots/a8.jpeg)
 
 9.Favourites Page: 
+
 ![Favourites Page](assets/catimage/screenshots/a9.jpeg)
 
 10.Cat Details Page: 
+
 ![Cat Details page](assets/catimage/screenshots/a10.jpeg)
 
 11.Account Page: 
+
 ![Account Page](assets/catimage/screenshots/a11.jpeg)
 
 
 Video Demonstration:
+
 [![Catnizer Video Demonstration](https://img.youtube.com/vi/j-sDhMvIWuMsDhMvIWuM/0.jpg)](https://www.youtube.com/watch?v=j-sDhMvIWuM)
