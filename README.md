@@ -64,4 +64,4 @@ Platforms: iOS/Android. (Currently not responsive for desktop view)
 
 
 Video Demonstration:
-[![Catnizer Video Demonstration](https://img.youtube.com/vi/sDhMvIWuM/0.jpg)](https://www.youtube.com/watch?v=sDhMvIWuM)
+[![Catnizer Video Demonstration](https://img.youtube.com/vi/j-sDhMvIWuMsDhMvIWuM/0.jpg)](https://www.youtube.com/watch?v=j-sDhMvIWuM)
